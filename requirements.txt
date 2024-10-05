@@ -1,2 +1,2 @@
 streamlit>=1.26.0
-sklearn
+sklearn>=1.26.0
