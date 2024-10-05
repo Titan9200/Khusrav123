@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from sklearn.ensable import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier
 import numpy as np
 
 st.title('😎 Khusrav')
